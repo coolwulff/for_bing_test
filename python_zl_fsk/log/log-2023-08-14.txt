@@ -1,2 +1,0 @@
-2023-08-14 01:42:25,895 - ERROR - MainThread -auto_run.py - compute_1 - 78 - 
-2023-08-15 01:56:55,469 - ERROR - MainThread -auto_run.py - compute_1 - 78 - 
