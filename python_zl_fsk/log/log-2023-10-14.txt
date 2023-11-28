@@ -1,0 +1,1 @@
+2023-10-14 00:03:29,571 - ERROR - MainThread -fsk_hive_connect.py - execute_sql - 76 - 

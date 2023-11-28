@@ -1,0 +1,1 @@
+2021-12-23 19:49:45,773 - ERROR - MainThread -auto_run.py - compute_1 - 53 - division by zero

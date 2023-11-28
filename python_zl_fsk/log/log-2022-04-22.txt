@@ -1,0 +1,1 @@
+2022-04-22 10:02:04,361 - ERROR - MainThread -fsk_hive2temp.py - insert_data2mysql_1 - 25 - 'NoneType' object has no attribute 'cursor'

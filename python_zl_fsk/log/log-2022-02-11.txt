@@ -1,0 +1,1 @@
+2022-02-11 10:47:59,239 - ERROR - MainThread -q1_new.py - insert_data2mysql_1 - 689 - 'inpatient_number'

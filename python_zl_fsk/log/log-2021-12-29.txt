@@ -1,0 +1,6 @@
+2021-12-29 16:07:05,042 - ERROR - MainThread -hive_connect.py - connect_db - 50 - name 'hive' is not defined
+2021-12-29 16:07:16,433 - ERROR - MainThread -hive_connect.py - connect_db - 50 - name 'hive' is not defined
+2021-12-29 16:07:16,433 - ERROR - MainThread -hive_connect.py - connect_db - 50 - name 'hive' is not defined
+2021-12-29 16:07:30,958 - ERROR - MainThread -hive_connect.py - connect_db - 50 - name 'hive' is not defined
+2021-12-29 16:07:30,958 - ERROR - MainThread -hive_connect.py - connect_db - 50 - name 'hive' is not defined
+2021-12-29 16:07:30,958 - ERROR - MainThread -hive_connect.py - connect_db - 50 - name 'hive' is not defined
